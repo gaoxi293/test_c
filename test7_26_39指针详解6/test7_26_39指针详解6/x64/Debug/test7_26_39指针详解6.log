@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\86151\source\repos\test7_26_39指针详解6\test7_26_39指针详解6\test.c(153,6): warning C4273: “qsort”: dll 链接不一致
+E:\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(60,23): message : 参见“qsort”的前一个定义
+C:\Users\86151\source\repos\test7_26_39指针详解6\test7_26_39指针详解6\test.c(186,21): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  test7_26_39指针详解6.vcxproj -> C:\Users\86151\source\repos\test7_26_39指针详解6\x64\Debug\test7_26_39指针详解6.exe
