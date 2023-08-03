@@ -1,0 +1,22 @@
+﻿  test.c
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(93,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(93,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(94,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(94,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(95,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(95,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(97,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(97,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(98,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(98,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(99,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(99,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(100,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(100,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(101,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(101,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(102,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(102,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(103,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\86151\source\repos\test8_1_41面试题讲解1\test8_1_41面试题讲解1\test.c(103,9): message : 请考虑在格式字符串中使用“%zd”
+  test8_1_41面试题讲解1.vcxproj -> C:\Users\86151\source\repos\test8_1_41面试题讲解1\x64\Debug\test8_1_41面试题讲解1.exe
